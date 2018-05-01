@@ -1,6 +1,3 @@
-# yallaSouq
-web application developed by nodeJS, Angular frameworks and mongodb 
-
 # yallaShopping
 
 A Simple e-commerce website
@@ -9,7 +6,7 @@ A Simple e-commerce website
 
 * Node.js v8.10.0 or above
 * Angular v5.0
-* mongoDB database engine 
+* mongoDB database engine v3.6.3
 
 
 ## Installing
@@ -18,13 +15,13 @@ A Simple e-commerce website
 
 2- In the NodeJs folder run:
 ```
-		npm install
-		npm start
+	npm install
+	npm start
 ```
 3- In the Angular folder run:
 ```
-	  npm install
-		npm start
+	npm install
+	npm start
 ```
 4- Start browsing via https://localhost:4200/
 
@@ -35,5 +32,3 @@ A Simple e-commerce website
 * Mohamed Gamal [gemyero](https://github.com/gemyero)
 * Mohamed Omran [mohamedgomran](https://github.com/mohamedgomran) 
 * Rania Sayed [raniaSayed](https://github.com/raniaSayed)
-
-
